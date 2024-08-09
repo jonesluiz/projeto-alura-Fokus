@@ -1,0 +1,1 @@
+Nesse projeto foi desenvolvido um método de contagem para atividades, com a possibilidade de usar o descanso curto e longo com diferentes tempos e ativar uma música para te acompanhar durante a atividade.
